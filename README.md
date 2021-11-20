@@ -4,12 +4,12 @@ Hand gesture recognition technology is becoming increasingly popular due to the 
 
 
 <br>
-#### functionalities 
-1. Play video 
-2. Pause video
-3. Control Volume 
-4. Volume up 
-5. Volume down
+## functionalities 
+1. Play video <br>
+2. Pause video<br>
+3. Control Volume <br>
+4. Volume up <br>
+5. Volume down<br>
 
 #
 
