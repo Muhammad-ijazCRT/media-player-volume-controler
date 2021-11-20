@@ -16,7 +16,7 @@ Hand gesture recognition technology is becoming increasingly popular due to the 
 
 <br>
 
-# Gestures:
+### Control Gestures:
 
 ![video](https://user-images.githubusercontent.com/75518471/142723620-5e8032c1-4ead-45c8-9a53-14cabe96df4c.gif)
 
