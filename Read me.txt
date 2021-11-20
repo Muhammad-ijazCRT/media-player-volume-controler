@@ -1,0 +1,13 @@
+1) Index finger gisture right and left guestures:
+	short jump left:
+	short jumright :
+
+2) cum open and close:
+	video pause
+	video resume
+
+3) vectory sign:
+	volum down
+
+4) vectory sign in top section iof screen:
+	volum up
