@@ -1,3 +1,6 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=Muhammad-ijazCRT)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 # Gesture Controlled Video Player using Opencv and MediaPipe - Play
 Hand gesture recognition technology is becoming increasingly popular due to the recent growth and popularity of Virtual and Augmented Reality technologies.<br><br>
 ![Gesture-Controlled-Video-Player-using-Opencv and Midia-pipe](https://user-images.githubusercontent.com/75518471/142723136-40149017-aaa7-4012-81a9-5b2c397ad430.jpg)
@@ -12,6 +15,8 @@ Hand gesture recognition technology is becoming increasingly popular due to the 
 #
 
 <br>
+
+# Gestures:
 
 ![video](https://user-images.githubusercontent.com/75518471/142723620-5e8032c1-4ead-45c8-9a53-14cabe96df4c.gif)
 
