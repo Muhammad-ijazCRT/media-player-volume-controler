@@ -13,7 +13,8 @@ Hand gesture recognition technology is becoming increasingly popular due to the 
 
 <br>
 
-https://user-images.githubusercontent.com/75518471/142723156-b74dc0d2-1303-41b2-9e35-88042b1c24aa.mp4
+![video](https://user-images.githubusercontent.com/75518471/142723620-5e8032c1-4ead-45c8-9a53-14cabe96df4c.gif)
+
 
 #
 
